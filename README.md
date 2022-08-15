@@ -1,9 +1,6 @@
-# On Mathematics
-
-Some notes on mathematics.
+# Notes on Mathematics
 
 * [Statistics](https://nbviewer.jupyter.org/github/thomd/notes-on-mathematics/blob/master/statistics.ipynb)
 * [Information Theory](https://nbviewer.jupyter.org/github/thomd/notes-on-mathematics/blob/master/information-theory.ipynb)
-
 
 For mathematical LaTeX notation, see [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics).

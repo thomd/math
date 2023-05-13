@@ -9,6 +9,6 @@ For mathematical LaTeX notation, see [LaTeX/Mathematics](https://en.wikibooks.or
 
     conda create --name math
     conda activate math
-    conda install jupyterlab sympy numpy scipy matplotlib pandas
+    conda install jupyterlab sympy numpy scipy matplotlib pandas seaborn
     jupyter lab
 
